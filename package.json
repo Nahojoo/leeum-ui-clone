@@ -1,0 +1,10 @@
+{
+  "name": "leeum-ui-clone",
+  "version": "1.0.0",
+  "scripts": {
+    "sass": "npx sass --watch src/scss/:src/css/ --style=compressed --no-source-map"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
